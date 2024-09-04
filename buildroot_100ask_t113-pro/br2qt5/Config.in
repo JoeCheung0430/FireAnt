@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_QT5_PATH/package/myir-hmi-gui/Config.in"
+

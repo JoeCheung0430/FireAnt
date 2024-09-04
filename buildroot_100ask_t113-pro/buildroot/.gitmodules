@@ -1,0 +1,4 @@
+[submodule "dl"]
+	path = dl
+	url = https://gitlab.com/dongshanpi/buildroot2022_dl
+	branch = master
